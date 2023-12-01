@@ -25,7 +25,7 @@ io.on('connection', (socket) => {
 
     // socket.on('disconnect', () => console.log(socket.id))
 });
-
+console.log("Ghbdtn")
 
   
 server.listen(3000, () => {
